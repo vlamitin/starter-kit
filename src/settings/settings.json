@@ -1,0 +1,7 @@
+{
+  "apiHost": "",
+  "apiPort": "4001",
+  "routes": {
+    "login": "/uaa/oauth/token"
+  }
+}
